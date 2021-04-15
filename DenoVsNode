@@ -18,3 +18,5 @@ Directly compile Typescript -> No need to install npm packages, no package.json 
 9) Async returns Promises
 
 10) Opinionated Modules
+
+//No need to download npm fetch module to use window.fetch
