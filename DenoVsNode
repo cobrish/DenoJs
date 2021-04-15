@@ -1,1 +1,20 @@
-1) Directly compile Typescript -> No need to install npm packages, no package.json hustle
+1) First Class Typescript: 
+Directly compile Typescript -> No need to install npm packages, no package.json hustle
+
+2) ES Modules
+
+3) Security First
+
+4) "Decentralized Modules"
+
+5) Standard Library
+
+6) Built in Tooling
+
+7) Browser Compatible API
+
+8) Single Executable
+
+9) Async returns Promises
+
+10) Opinionated Modules
